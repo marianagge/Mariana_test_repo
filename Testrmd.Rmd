@@ -1,0 +1,10 @@
+---
+title: "test"
+author: "Mariana"
+date: "6/4/2021"
+output: pdf_document
+---
+Testing git in R
+```{r setup, include=FALSE}
+2+2
+```
